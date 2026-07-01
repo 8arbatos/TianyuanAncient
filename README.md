@@ -1,6 +1,6 @@
 # 天元遗迹 TianyuanAncient 
 ## 类型：2D俯视角即时战斗修仙 Roguelite + 洞府养成
-## 平台目标：PC
+## 平台目标：PC(Windows)
 ## 开发引擎：Godot
 ## 操作说明
 ### 非战斗状态
